@@ -1,7 +1,7 @@
 #include "graphics.hpp"
 using namespace genv;
 
-
+//modositas
 int main()
 {
     gout.open(400,400);
